@@ -1,0 +1,1 @@
+# Aerial-Scene-Classification-using-Custom-CNN-and-VGG16
